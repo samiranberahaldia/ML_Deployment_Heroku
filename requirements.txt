@@ -1,7 +1,7 @@
 Flask>=1.1.1
 gunicorn>=19.9.0
 itsdangerous==1.1.0
-Jinga2==2.11.2
+Jinga2>=2.9.6
 MarkupSafe==1.1.1
 Wekzeug==1.0.1
 numpy==1.16.4
