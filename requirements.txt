@@ -3,7 +3,7 @@ gunicorn>=19.9.0
 itsdangerous==1.1.0
 Jinja2>=2.9.6
 MarkupSafe==1.1.1
-Wekzeug==1.0.1
+Werkzeug==1.0.1
 numpy==1.16.4
 sciy==0.15.1
 scikit-learn==0.15.2
